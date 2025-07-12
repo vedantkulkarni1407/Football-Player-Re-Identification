@@ -20,10 +20,11 @@ This project implements a robust football player tracking system using the YOLOv
   Exponential moving average applied to stabilize bounding box visuals.
 
 ## Dependencies
+- Python (3.12)
 - OpenCV
 - NumPy
-- Ultratics(YOLO)
-- Supervision(ByteTrack)
+- Ultratics (YOLO)
+- Supervision (ByteTrack)
 - Os 
 ---
 
