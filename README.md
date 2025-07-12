@@ -29,7 +29,8 @@ This project implements a robust football player tracking system using the YOLOv
 
 ## 🛠️ Installation
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/player-tracking-yolov11.git
-   cd player-tracking-yolov11
+1. Create a new environment with all the dependencies included.
+2. Download the fine-tuned YOLOv11 model for player detection: https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+3. Update the model path in the player_tracking.py.
+4. Ensure the virtual environment is active before you run the file.
+* NOTE:- The output video file in the repository is the result I got, yours might be different. 
