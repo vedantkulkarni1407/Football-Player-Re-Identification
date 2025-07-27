@@ -1,6 +1,6 @@
-# ⚽ Football Player Tracking using YOLOv11 and ByteTrack
+# ⚽ Football Player Tracking using YOLOv5x and ByteTrack
 
-This project implements a robust football player tracking system using the YOLOv11 object detection model and the ByteTrack multi-object tracking algorithm. The system is capable of handling re-identification, camera motion compensation, and bounding box smoothing for consistent tracking.
+This project implements a robust football player tracking system using the YOLOv5x object detection model and the ByteTrack multi-object tracking algorithm. The system is capable of handling re-identification, camera motion compensation, and bounding box smoothing for consistent tracking.
 
 ## 🚀 Features
 
