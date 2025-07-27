@@ -4,7 +4,7 @@ This project implements a robust football player tracking system using the YOLOv
 
 ## 🚀 Features
 
-- 📦 **YOLOv11-based Detection**  
+- 📦 **YOLOv5x-based Detection**  
   High-accuracy detection of players using Ultralytics YOLOv5x with a confidence threshold of 0.8.
 
 - 🔄 **ByteTrack Tracking**  
